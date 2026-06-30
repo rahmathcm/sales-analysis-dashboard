@@ -26,6 +26,12 @@ The project demonstrates **data cleaning, transformation, and visualization** sk
 
 ---
 
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](sales_dashboard.png)
+
+
+---
 ### 📈 Insights & Findings
 - **Total Sales:** ₹ 22,97,200.86  
 - **Total Profit:** ₹ 2,86,397.02  
